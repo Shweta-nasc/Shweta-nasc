@@ -104,22 +104,25 @@ system.core_mandate   : "Engineer solutions that mitigate real-world vulnerabili
 <tr>
 <td width="50%" valign="top" style="border: 1px solid #30363d; background-color: rgba(0, 0, 0, 0.2);">
 
-### 🌍 Project: GeoVigil
-> **[ SYSTEM-LEVEL GEOLOGICAL HAZARD PREDICTION MODULE ]**
+### 🚦 Project: ParkVision-Saathi
+> **[ AI-POWERED TRAFFIC ENFORCEMENT & CONGESTION OPTIMIZATION PLATFORM ]**
 
-- ⚠️ **Automated Rockfall Prediction** using dynamic terrain analysis.
-- 🧠 **TensorFlow-driven CV model** optimizing hazard classification.
-- 📡 **Real-time secure dashboard** for immediate alerts.
-- 📊 Scalable **MongoDB data pipeline** for historical analysis.
+- 🚗 **Congestion Impact Scoring (CIS)** to prioritize violations based on real traffic disruption rather than violation count.
+- 🧠 **LightGBM + CatBoost Ensemble Forecasting** for next-day parking violation hotspot prediction.
+- 🎯 **Game-Theoretic Patrol Optimization** using Stackelberg Security Games for strategic enforcement deployment.
+- 📡 **Real-Time Traffic Validation Engine** leveraging live travel telemetry to continuously calibrate congestion impact estimates.
+- 🗺️ **Uber H3 Spatial Intelligence Framework** mapping 298K+ enforcement records into high-resolution geographic grids.
+- 🔄 **Waterbed Spillover Simulation Engine** predicting how enforcement actions shift parking pressure to nearby locations.
+- ⚡ **Zero-Database, Offline-First Architecture** with precomputed spatial artifacts for instant startup and high reliability.
 
-**MISSION STACK:** `React` `Node.js` `TensorFlow` `MongoDB`
+**MISSION STACK:** `React` `Node.js` `Python` `LightGBM` `CatBoost` `Uber H3` `MapMyIndia API` `Machine Learning` `Game Theory`
 
 <br/>
 <div align="center">
-<a href="https://github.com/shweta-nasc">
+<a href="https://github.com/Shweta-nasc/Park-Vision-sathi">
   <img src="https://img.shields.io/badge/ACCESS%20REPO-%230d1117?style=for-the-badge&logo=github&logoColor=58a6ff&color=0d1117" />
 </a>
-<a href="https://shweta-nasc.github.io/GeoVigil/">
+<a href="https://park-vision-sathi1.vercel.app/">
   <img src="https://img.shields.io/badge/DEPLOYED%20LIVE-%230d1117?style=for-the-badge&logo=rocket&logoColor=f97316&color=0d1117" />
 </a>
 </div>
@@ -131,19 +134,19 @@ system.core_mandate   : "Engineer solutions that mitigate real-world vulnerabili
 ### 🛡️ Project: SENTINEL
 > **[ ORBITAL SITUATIONAL AWARENESS & AEROSPACE INTELLIGENCE ]**
 
-- 🌌 **High-precision Space Debris Tracking** and visual modeling.
-- 📡 **Satellite Monitoring** with live orbital data analysis.
-- ⚡ Responsive **React frontend** with intuitive system controls.
-- 🔗 Secure backend node for integrating live telemetry.
+- 🌌 **High-precision spacecraft fault diagnosis** for identifying root causes from telemetry, anomaly signals, and crash dumps.
+- 📡 **Satellite monitoring** with live orbital data analysis, early-warning detection, and real-data validation.
+- ⚡ Responsive **React frontend** designed as a mission-control dashboard for operators and reviewers.
+- 🔗 Secure backend node for integrating live telemetry, RAG context, safety checks, and structured recovery output.
 
 **MISSION STACK:** `React` `Node.js` `MongoDB` `REST APIs`
 
 <br/>
 <div align="center">
-<a href="https://github.com/shweta-nasc/SpaceAgent">
+<a href="YOUR_REPO_URL_HERE">
   <img src="https://img.shields.io/badge/ACCESS%20REPO-%230d1117?style=for-the-badge&logo=github&logoColor=f97316&color=0d1117" />
 </a>
-<a href="https://space-agent-9m9h.vercel.app/">
+<a href="YOUR_DEPLOYED_URL_HERE">
   <img src="https://img.shields.io/badge/DEPLOYED%20LIVE-%230d1117?style=for-the-badge&logo=rocket&logoColor=58a6ff&color=0d1117" />
 </a>
 </div>
