@@ -143,10 +143,10 @@ system.core_mandate   : "Engineer solutions that mitigate real-world vulnerabili
 
 <br/>
 <div align="center">
-<a href="YOUR_REPO_URL_HERE">
+<a href="https://github.com/AbhijeetKushwaha1213/SpaceAgent">
   <img src="https://img.shields.io/badge/ACCESS%20REPO-%230d1117?style=for-the-badge&logo=github&logoColor=f97316&color=0d1117" />
 </a>
-<a href="YOUR_DEPLOYED_URL_HERE">
+<a href="space-agent-9m9h.vercel.app/">
   <img src="https://img.shields.io/badge/DEPLOYED%20LIVE-%230d1117?style=for-the-badge&logo=rocket&logoColor=58a6ff&color=0d1117" />
 </a>
 </div>
