@@ -33,27 +33,35 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+---
 
-### 📈 Contribution Statistics
+---
+
+### 📊 Analytics & Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shweta-nasc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shweta-nasc&theme=tokyonight&hide_border=true" />
+  <!-- Core Stats Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shweta-nasc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Core Stats" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shweta-nasc&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shweta-nasc&theme=tokyo-night&hide_border=true" width="100%" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shweta-nasc&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%" alt="Top Languages" />
+  <!-- Activity Graph Card -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shweta-nasc&theme=tokyo-night&hide_border=true" width="48%" alt="Activity Graph" />
 </p>
+
+<br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweta-nasc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+---
 
-
+---
 ### 💻 Technology Stack
 
 <p align="center">
