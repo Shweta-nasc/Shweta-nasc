@@ -130,6 +130,20 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+<p><p align="center"> <img src="https://leetcard.jacoblin.cool/rookie_engicoder?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/> </p> <!-- ============ SNAKE ============ --></p>
+
+### 🏆 Achievements
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%2010%20National%20Finalist-Square%20Hacks%202.0%2C%20IIT%20Delhi-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/National%20Runner--up-TechJam%202.0%2C%20Microsoft%20Noida-orange?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Top%2013%20Winner-CODEBLOCK%20Hackathon%2C%20University%20of%20Allahabad-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/City%20Topper-Technothlon%2C%20IIT%20Guwahati-yellow?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Semi--Finalist-ET%20AI%20Hackathon%202.0-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%20'26%20Contributor-brightgreen?style=for-the-badge&logo=github"/>
+</p>
 
 ### 🚀 Featured Projects
 
@@ -176,10 +190,15 @@ Civic issue reporting app enabling citizens to flag and track local infrastructu
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+
 ### 🌱 Open Source — GSSoC '26
-¯
+- 🔧 **career-pilot** — session management + Redis invalidation, MongoDB connection pooling
+- 🔧 **OMNYX-OS** — smooth scan progress bar animation
+- 🔧 **business-ai-agent** — cross-platform CI coverage, outbound HTTP timeout fix
+
 <p align="center">
   <i>Always open to interesting conversations, collaborations, or just a good chat!</i>
+  
 </p>
 
 <p align="center">
